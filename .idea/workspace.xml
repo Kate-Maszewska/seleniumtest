@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fead6181-b968-47d8-8483-142dd1352dfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.idea/libraries/org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/build/classes/java/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/animal-sniffer-annotations-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/byte-buddy-1.8.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/checker-compat-qual-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/commons-exec-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/error_prone_annotations-2.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/guava-25.0-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/j2objc-annotations-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/jsr305-1.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/okhttp-3.11.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/okio-1.14.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-api-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-chrome-driver-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-edge-driver-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-firefox-driver-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-ie-driver-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-java-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-opera-driver-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-remote-driver-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-safari-driver-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/lib/selenium-support-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test 7.09/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test 7.09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test 7.09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test 7.09/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test 7.09/src/main/java/main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../test 7.09/.gradle/" />
@@ -83,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test 7.09/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="53">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -265,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test 7.09/src/main/java/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="53">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
